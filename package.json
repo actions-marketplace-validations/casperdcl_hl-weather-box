@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/casperdcl/hl-weather-box#readme",
   "dependencies": {
-    "@octokit/rest": "^17.0.0",
-    "node-fetch": "^2.6.1"
+    "@octokit/rest": "^19.0.13",
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
